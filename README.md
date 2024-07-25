@@ -1,6 +1,7 @@
 # Decentralized Crowdfunding Platform
 
 A platform for creating and funding campaigns using a hybrid architecture combining blockchain and centralized technologies.
+#### **Note:** This project is currently under development and uses the Sepolia Testnet for testing purposes.
 
 ## Repositories
 
@@ -21,5 +22,3 @@ A platform for creating and funding campaigns using a hybrid architecture combin
 
 ## How it Works
 Users register and can either create or support campaigns. Campaigns are managed on the blockchain (Sepolia Testnet) using smart contracts for fund distribution and transparency. Campaign metadata is stored in a centralized database for efficient retrieval.
-
-**Note:** This project is currently under development and uses the Sepolia Testnet for testing purposes.
