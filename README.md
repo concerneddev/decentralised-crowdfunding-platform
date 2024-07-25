@@ -2,6 +2,11 @@
 
 A platform for creating and funding campaigns using a hybrid architecture combining blockchain and centralized technologies.
 
+## Repositories
+
+### [Decentralised Backend](https://github.com/concerneddev/crowdfundingplatform-decentralised-backend)
+### [Centralised Backend](https://github.com/concerneddev/crowdfundingplatform-centralised-backend)
+
 ## Key Features
 * User registration and authentication
 * Campaign creation and management
