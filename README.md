@@ -5,6 +5,7 @@ A platform for creating and funding campaigns using a hybrid architecture combin
 
 ## Repositories
 
+### [Frontend](https://github.com/concerneddev/crowdfundingplatform-frontend)
 ### [Decentralised Backend](https://github.com/concerneddev/crowdfundingplatform-decentralised-backend)
 ### [Centralised Backend](https://github.com/concerneddev/crowdfundingplatform-centralised-backend)
 
